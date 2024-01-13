@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82496175afe28462",
+        "id": "c75a5a38e36bc387",
         "type": "tabs",
         "children": [
           {
-            "id": "75bc514288049a03",
+            "id": "5325945fb9314527",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "e27086f39726977b",
+            "id": "8a3a7648d9f134a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "communitiy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,9 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90d0f71e5db367b8",
+  "active": "8a3a7648d9f134a1",
   "lastOpenFiles": [
     "springmvc/springmvc1/멀티 쓰레드.md",
+    "Untitled.canvas",
     "springmvc/springmvc1/자바 웹 기술.md",
     "Pasted image 20240113190049.png",
     "Pasted image 20240113190029.png",
